@@ -1,17 +1,7 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+# Business Management System
+This system allows you to efficiently manage your business by adding purchased items, including details such as unit cost price, total cost price, quantity, and selling price. Additionally, you can maintain a record of investors and their respective profit shares, calculated based on their contributions to the business. The application is fully responsive, ensuring an optimal user experience across all devices.
 
 ---
-
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
