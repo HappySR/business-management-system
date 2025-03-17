@@ -11,7 +11,7 @@ This system allows you to efficiently manage your business by adding purchased i
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd business-management-system
 npm install
 ```
 
